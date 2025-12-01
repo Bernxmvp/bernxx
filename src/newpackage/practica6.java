@@ -23,7 +23,12 @@ public class practica6 {
         System.out.println("kilos");
         kilos= leer.nextFloat();
         System.out.println("hambre");
+        System.out.println("tiene una patita blanca");
+        
+        
         if (tipo.equals("A"))
+            
+            
         if (tamaño.equals("1")) {
             if (true) {
                 
