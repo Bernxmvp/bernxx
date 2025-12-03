@@ -9,5 +9,5 @@ package newpackage;
  * @author Lab3
  */
 class sout {
-    
+    psvm    
 }
